@@ -1,5 +1,3 @@
-# sample
-first trail git repository
-<br/>
-author-Gagan Deep U N(VVCE)
+karoake player</br>
+It plays lyrics along with songs in colourful fonts
 
