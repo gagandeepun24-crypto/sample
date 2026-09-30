@@ -28,3 +28,4 @@ def is_not_palindrome(text):
 # Examples
 print(is_not_palindrome("racecar"))  # Output: False
 print(is_not_palindrome("hello"))    # Output: True
+
